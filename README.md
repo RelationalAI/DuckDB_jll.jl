@@ -12,7 +12,7 @@ The tarballs for `DuckDB_jll.jl` have been built from these sources:
 
 * git repository: https://github.com/duckdb/duckdb.git (revision: `545d9770657b0dbf5c8dc888309a102e23d93303`)
 * git repository: https://github.com/Microsoft/vcpkg (revision: `9d47b24eacbd1cd94f139457ef6cd35e5d92cc84`)
-* git repository: https://github.com/whatsthecraic/vcpkg_binarybuilder_triplets.git (revision: `ef46e426e3d9bd15db81c1f08394c023cc2c2c99`)
+* git repository: https://github.com/whatsthecraic/duckdb_binarybuilder.git (revision: `63fc3f5518c4ce7ac2aacbd31d9194618bcce5fe`)
 
 ## Platforms
 
