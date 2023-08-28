@@ -216,37 +216,37 @@ os = "freebsd"
     url = "https://github.com/whatsthecraic/DuckDB_jll.jl/releases/download/DuckDB-v0.8.0+1/DuckDB.v0.8.0.x86_64-unknown-freebsd.tar.gz"
 [[DuckDB]]
 arch = "aarch64"
-git-tree-sha1 = "ec5f925e3abb10cb9ff0a2dbd6dd7648fb8da14b"
+git-tree-sha1 = "e541f39a2c6387ff05f9177d316be399dd4a650b"
 os = "macos"
 
     [[DuckDB.download]]
-    sha256 = "6d81ef15f566330828fe5bc376c8715984c9196c2111780823d886269028b99f"
-    url = "https://github.com/RelationalAI/DuckDB_jll.jl/releases/download/DuckDB-v0.8.1+1/DuckDB.v0.8.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "68f0ff03974305319329bfd582c311a54bf81860c57b86f88db64d02a65e4e15"
+    url = "https://github.com/RelationalAI/DuckDB_jll.jl/releases/download/DuckDB-v0.8.1+2/DuckDB.v0.8.1.aarch64-apple-darwin.tar.gz"
 [[DuckDB]]
 arch = "x86_64"
-git-tree-sha1 = "d53a83e3b81f5785d2573e53be3183685accc0bf"
+git-tree-sha1 = "bdec92252eb9f89e9ec6936a4d79ec9a10eedaf3"
 os = "macos"
 
     [[DuckDB.download]]
-    sha256 = "56c427717e12698496099004692fbb93069d2ce90414f731d82cd5863dca5a8c"
-    url = "https://github.com/RelationalAI/DuckDB_jll.jl/releases/download/DuckDB-v0.8.1+1/DuckDB.v0.8.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "9fcf838b8149f7ca324208aa7d6cefd2fa91d1073d9d5b781571aa3fcddcc3de"
+    url = "https://github.com/RelationalAI/DuckDB_jll.jl/releases/download/DuckDB-v0.8.1+2/DuckDB.v0.8.1.x86_64-apple-darwin.tar.gz"
 [[DuckDB]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9437a3b5cf00556df549b8ab5758331c0a30e9cc"
+git-tree-sha1 = "0ca2c3d02dc07697797648c35f1442c912e772c2"
 libc = "glibc"
 os = "linux"
 
     [[DuckDB.download]]
-    sha256 = "2c0671693e716312035f253e4247cdf9a90b81f87bdc2197c360f413f48e786d"
-    url = "https://github.com/RelationalAI/DuckDB_jll.jl/releases/download/DuckDB-v0.8.1+1/DuckDB.v0.8.1.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "42eaee80e6a0c1a93666a9e40eab71d08bfdfaa6d59433064b117179a74f70cb"
+    url = "https://github.com/RelationalAI/DuckDB_jll.jl/releases/download/DuckDB-v0.8.1+2/DuckDB.v0.8.1.x86_64-linux-gnu-cxx03.tar.gz"
 [[DuckDB]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4c34c3c1d4966447393510c7e2380d37b1c0815f"
+git-tree-sha1 = "756e2b0e7676ed6dad335260aff1db19aa478ddb"
 libc = "glibc"
 os = "linux"
 
     [[DuckDB.download]]
-    sha256 = "aa9972c722f4dc4a835e7194ac5a8bb8ddbf6d74317de0d4c900c2e14ee61bda"
-    url = "https://github.com/RelationalAI/DuckDB_jll.jl/releases/download/DuckDB-v0.8.1+1/DuckDB.v0.8.1.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "90f8306d16e802c5688722658f2c166ec15410a2daa54b1d9773da03cbddde19"
+    url = "https://github.com/RelationalAI/DuckDB_jll.jl/releases/download/DuckDB-v0.8.1+2/DuckDB.v0.8.1.x86_64-linux-gnu-cxx11.tar.gz"
